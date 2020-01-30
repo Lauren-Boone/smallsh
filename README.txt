@@ -22,6 +22,6 @@ To clean:
 
 This program immulates a shell. Commands include: chdir, ls, cd, pwd, and many exec commands. 
 To run a process in the background use & after the command. 
-
+SIGINT terminates any foreground processes and SIGSTSP disables all future background proceses until next SIGSTSP
 
 
